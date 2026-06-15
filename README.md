@@ -1,4 +1,7 @@
-# Hi there, I'm Lenon Adriano 👋
+# 👋 Welcome to my GitHub Profile!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/l3n8n-ocd/l3n8n-ocd/main/Github Banner Image.png" alt="Lenon Adriano Banner"/>
+</p>
 
 ## 🚀 About Me
 
