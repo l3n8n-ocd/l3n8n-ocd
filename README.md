@@ -9,7 +9,7 @@
 
 📱 Specializing in Web & Mobile Application Development (WMAD)
 
-🔐 Aspiring Cybersecurity/Application Security Engineer
+🔐 Aspiring Cloud Security Engineer
 
 ## 🧠 Skills
 
